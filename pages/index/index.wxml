@@ -1,0 +1,6 @@
+<view class="container">
+  <v-language />
+  <text>{{content.text1}}</text>
+  <text>{{content.text2}}</text>
+  <text>{{content.text3}}</text>
+</view>

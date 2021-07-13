@@ -1,0 +1,10 @@
+.language {
+	border-radius: 16rpx;
+	width: 94rpx;
+	margin: 30rpx;
+	float: left;
+	color: #0e7CD2;
+	text-align: center;
+	line-height: 38rpx;
+	z-index: 2;
+}

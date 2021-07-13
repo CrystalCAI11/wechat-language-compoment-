@@ -1,0 +1,1 @@
+<button class="language" bindtap='changeLanguage'>{{content.title}}</button>
